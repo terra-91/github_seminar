@@ -1,6 +1,6 @@
 おはよう
 
 ////////////////////////////
-sample file 
+this is sample file 
 Git Hub Seminar
 
