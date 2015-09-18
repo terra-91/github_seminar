@@ -5,3 +5,5 @@ this is sample file
 GitHub Seminar
 last update:2015/9/18
 ///////////////////////////
+
+おはよう。
