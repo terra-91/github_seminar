@@ -1,1 +1,6 @@
 おはよう
+
+////////////////////////////
+sample file 
+Git Hub Seminar
+
